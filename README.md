@@ -2,6 +2,8 @@
 
 A modern, responsive marketing and advertising platform built with Next.js 14, TypeScript, and Tailwind CSS.
 
+![Dream Advertiser](./public/screenshot.png)
+
 ## 🚀 Features
 
 - Modern, responsive design
